@@ -1,6 +1,6 @@
 # IBM Python Project For Data Science
 
-IBM logo
+
 
 About this Professional Course
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
@@ -20,9 +20,9 @@ Libraries: Pandas, BeautifulSoup, Plotly, Requests
 
 Projects: Web Scraping Introduction, Extracting Stock Data Using Web Scraping, Extracting Stock Data Using Python Library, Extracting and Visualisig Stock
 
-Read more below:
 
-Course Link: IBM Data Science Professional Certificate
+
+Course Link: https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
 
 Instructors
 Azim Hirjani
